@@ -1,0 +1,6 @@
+server:
+  port: 5000
+  context-path:
+
+clienteRest:
+  urlApi: https://jsonplaceholder.typicode.com/users/
